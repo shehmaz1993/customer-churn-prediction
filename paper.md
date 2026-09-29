@@ -1,8 +1,8 @@
 # Customer Churn Prediction Using Machine Learning Classifiers: A Comparative Analysis
 
-**Author:** [Your Name]  
+**Author:** KAZI SHEHMAZ ISLAM  
 **Date:** September 2026  
-**Repository:** [Your GitHub Repository Link]  
+**Repository:** [[Your GitHub Repository Link]](https://github.com/shehmaz1993?tab=repositories)  
 
 ---
 
