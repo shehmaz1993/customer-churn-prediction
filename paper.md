@@ -2,7 +2,7 @@
 
 **Author:** KAZI SHEHMAZ ISLAM  
 **Date:** September 2026  
-**Repository:** [[Your GitHub Repository Link]](https://github.com/shehmaz1993?tab=repositories)  
+**Repository:** https://github.com/shehmaz1993?tab=repositories 
 
 ---
 
